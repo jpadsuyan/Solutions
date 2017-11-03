@@ -8,7 +8,7 @@ import java.util.Random;
  */
 
 /**
- * @author Group5
+ * @author Group5 sample sample sample
  *
  */
 public class Solutions {
